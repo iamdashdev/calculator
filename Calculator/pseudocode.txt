@@ -1,0 +1,19 @@
+
+ =============== BUILD THE INTERFACE =====================
+
+ 1. Create the container to hold the whole calculator 
+ 2. Create the display screen to show the input and output
+ 3. Create another container to hold the buttons
+
+ ============== IMPLEMENT FUNCTIONALITY ================
+ 1. Create a function that takes input from the user and displays it
+ 2. Create a function that evaluates the input
+ 3. Create a function that shows the output
+
+ 
+ 
+ 
+ ================ STORE USER INPUT ============
+ 1. Listen for click event in each element in a btn class and store the value
+ 2. For each click event, append the value of the button to the display text
+ 
